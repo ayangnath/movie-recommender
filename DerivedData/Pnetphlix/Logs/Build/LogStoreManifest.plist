@@ -1,0 +1,419 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>02880F0D-85D3-47C5-A8EC-8260798E265C</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>02880F0D-85D3-47C5-A8EC-8260798E265C.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Pnetphlix project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Pnetphlix</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Pnetphlix</string>
+			<key>timeStartedRecording</key>
+			<real>700622883.15366304</real>
+			<key>timeStoppedRecording</key>
+			<real>700622883.829548</real>
+			<key>title</key>
+			<string>Build Pnetphlix</string>
+			<key>uniqueIdentifier</key>
+			<string>02880F0D-85D3-47C5-A8EC-8260798E265C</string>
+		</dict>
+		<key>23D37D4C-D6E7-4F0D-809E-829356B9F185</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>23D37D4C-D6E7-4F0D-809E-829356B9F185.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Pnetphlix project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Pnetphlix</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Pnetphlix</string>
+			<key>timeStartedRecording</key>
+			<real>700623085.37524104</real>
+			<key>timeStoppedRecording</key>
+			<real>700623085.42611504</real>
+			<key>title</key>
+			<string>Build Pnetphlix</string>
+			<key>uniqueIdentifier</key>
+			<string>23D37D4C-D6E7-4F0D-809E-829356B9F185</string>
+		</dict>
+		<key>24A850D7-56B6-45A4-8E1A-83330A9C0D68</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>24A850D7-56B6-45A4-8E1A-83330A9C0D68.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Pnetphlix project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Pnetphlix</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Pnetphlix</string>
+			<key>timeStartedRecording</key>
+			<real>700619653.34968102</real>
+			<key>timeStoppedRecording</key>
+			<real>700619653.70729899</real>
+			<key>title</key>
+			<string>Build Pnetphlix</string>
+			<key>uniqueIdentifier</key>
+			<string>24A850D7-56B6-45A4-8E1A-83330A9C0D68</string>
+		</dict>
+		<key>3C5547C7-BA34-4053-9BDA-212C7B967133</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>3C5547C7-BA34-4053-9BDA-212C7B967133.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Pnetphlix project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Pnetphlix</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Pnetphlix</string>
+			<key>timeStartedRecording</key>
+			<real>700623617.65147197</real>
+			<key>timeStoppedRecording</key>
+			<real>700623617.707582</real>
+			<key>title</key>
+			<string>Build Pnetphlix</string>
+			<key>uniqueIdentifier</key>
+			<string>3C5547C7-BA34-4053-9BDA-212C7B967133</string>
+		</dict>
+		<key>51ECB15F-E6ED-4DCD-B408-ADBC96199DA0</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>51ECB15F-E6ED-4DCD-B408-ADBC96199DA0.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Pnetphlix project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Pnetphlix</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Pnetphlix</string>
+			<key>timeStartedRecording</key>
+			<real>700619583.93691897</real>
+			<key>timeStoppedRecording</key>
+			<real>700619584.33542895</real>
+			<key>title</key>
+			<string>Build Pnetphlix</string>
+			<key>uniqueIdentifier</key>
+			<string>51ECB15F-E6ED-4DCD-B408-ADBC96199DA0</string>
+		</dict>
+		<key>7B753905-D965-48F6-9427-CDCE34333774</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>7B753905-D965-48F6-9427-CDCE34333774.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Pnetphlix project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Pnetphlix</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Pnetphlix</string>
+			<key>timeStartedRecording</key>
+			<real>700619515.33950996</real>
+			<key>timeStoppedRecording</key>
+			<real>700619515.40174103</real>
+			<key>title</key>
+			<string>Build Pnetphlix</string>
+			<key>uniqueIdentifier</key>
+			<string>7B753905-D965-48F6-9427-CDCE34333774</string>
+		</dict>
+		<key>A7B2F0EF-0369-4B4A-9367-ADED584E17B8</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>A7B2F0EF-0369-4B4A-9367-ADED584E17B8.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Pnetphlix project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Pnetphlix</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Pnetphlix</string>
+			<key>timeStartedRecording</key>
+			<real>700619468.10856903</real>
+			<key>timeStoppedRecording</key>
+			<real>700619470.473719</real>
+			<key>title</key>
+			<string>Build Pnetphlix</string>
+			<key>uniqueIdentifier</key>
+			<string>A7B2F0EF-0369-4B4A-9367-ADED584E17B8</string>
+		</dict>
+		<key>A80D8D1C-EC28-40E8-BDA3-F0A7341C14C1</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>A80D8D1C-EC28-40E8-BDA3-F0A7341C14C1.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Pnetphlix project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Pnetphlix</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Pnetphlix</string>
+			<key>timeStartedRecording</key>
+			<real>700620019.21903896</real>
+			<key>timeStoppedRecording</key>
+			<real>700620019.23961604</real>
+			<key>title</key>
+			<string>Build Pnetphlix</string>
+			<key>uniqueIdentifier</key>
+			<string>A80D8D1C-EC28-40E8-BDA3-F0A7341C14C1</string>
+		</dict>
+		<key>AA8DCF99-4D12-4110-B430-9472AE43806E</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>AA8DCF99-4D12-4110-B430-9472AE43806E.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Pnetphlix project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Pnetphlix</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Pnetphlix</string>
+			<key>timeStartedRecording</key>
+			<real>700620050.40065801</real>
+			<key>timeStoppedRecording</key>
+			<real>700620050.76818001</real>
+			<key>title</key>
+			<string>Build Pnetphlix</string>
+			<key>uniqueIdentifier</key>
+			<string>AA8DCF99-4D12-4110-B430-9472AE43806E</string>
+		</dict>
+		<key>DEEDF4BD-0BD6-433D-A141-CBDA66BB9E03</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>DEEDF4BD-0BD6-433D-A141-CBDA66BB9E03.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Pnetphlix project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Pnetphlix</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Pnetphlix</string>
+			<key>timeStartedRecording</key>
+			<real>700619593.86741805</real>
+			<key>timeStoppedRecording</key>
+			<real>700619593.89516795</real>
+			<key>title</key>
+			<string>Build Pnetphlix</string>
+			<key>uniqueIdentifier</key>
+			<string>DEEDF4BD-0BD6-433D-A141-CBDA66BB9E03</string>
+		</dict>
+		<key>E20BBD59-8D51-44C2-9B7C-4087E0A8A3EE</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>E20BBD59-8D51-44C2-9B7C-4087E0A8A3EE.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Pnetphlix project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Pnetphlix</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Pnetphlix</string>
+			<key>timeStartedRecording</key>
+			<real>700619765.00247204</real>
+			<key>timeStoppedRecording</key>
+			<real>700619765.03201199</real>
+			<key>title</key>
+			<string>Build Pnetphlix</string>
+			<key>uniqueIdentifier</key>
+			<string>E20BBD59-8D51-44C2-9B7C-4087E0A8A3EE</string>
+		</dict>
+		<key>E831AA76-0B46-462B-9CAA-E728B100FEC4</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>E831AA76-0B46-462B-9CAA-E728B100FEC4.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Pnetphlix project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Pnetphlix</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Pnetphlix</string>
+			<key>timeStartedRecording</key>
+			<real>700605083.142205</real>
+			<key>timeStoppedRecording</key>
+			<real>700605084.27815604</real>
+			<key>title</key>
+			<string>Build Pnetphlix</string>
+			<key>uniqueIdentifier</key>
+			<string>E831AA76-0B46-462B-9CAA-E728B100FEC4</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

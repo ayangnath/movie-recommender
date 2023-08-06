@@ -1,0 +1,60 @@
+{
+  "_buildCommand2" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : true,
+    "targets" : null
+  },
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "f78f5a6a5d55a4604f946375b1f45874ff87a02c29e3353e42ca0f33541c9dd3"
+    }
+  ],
+  "containerPath" : "/Users/ayannath/Desktop/Pnetphlix/Pnetphlix.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "indexbuild",
+    "activeArchitecture" : "arm64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "macosx",
+      "sdk" : "macosx13.0",
+      "sdkVariant" : "macos",
+      "supportedArchitectures" : [
+        "arm64e",
+        "arm64",
+        "x86_64"
+      ],
+      "targetArchitecture" : "arm64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/ayannath/Desktop/Pnetphlix/DerivedData/Pnetphlix/Index.noindex/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/ayannath/Desktop/Pnetphlix/DerivedData/Pnetphlix/Index.noindex/Build/Products",
+      "derivedDataPath" : "/Users/ayannath/Desktop/Pnetphlix/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/ayannath/Desktop/Pnetphlix/DerivedData/Pnetphlix/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/ayannath/Desktop/Pnetphlix/DerivedData/Pnetphlix/Index.noindex/PrecompiledHeaders",
+      "pchPath" : "/Users/ayannath/Desktop/Pnetphlix/DerivedData/Pnetphlix/Index.noindex/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO",
+          "INDEX_ARENA_INFO_REGULAR_BUILD_PRODUCTS_DIR" : "/Users/ayannath/Desktop/Pnetphlix/DerivedData/Pnetphlix/Build/Products",
+          "ONLY_ACTIVE_ARCH" : "YES"
+        }
+      }
+    }
+  },
+  "qos" : "utility",
+  "schemeCommand" : "launch",
+  "schemeCommand2" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}
